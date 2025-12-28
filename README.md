@@ -42,7 +42,7 @@ Marketing and planning teams often rely on “legacy assumptions” about where 
 
 ---
 
-## Key features (why this is more than “just downloading data”)
+## Key Features (More than “just downloading data”)
 
 ### ✅ Multi-dataset integration
 Combines ACS demographics and LODES job data into a single GIS-ready table keyed to 2020 Census block groups.
